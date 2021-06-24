@@ -3,7 +3,7 @@
     {
       "name": "grade_cplusplus",
       "setup": "",
-      "run": "make test",
+      "run": "make HelloWorld",
       "input": "",
       "output": "",
       "comparison": "included",
